@@ -1,0 +1,100 @@
+    1  sudo yum update
+    2  sudo yum install gito yum update
+    3  sudo yum install git
+    4  git clone https://github.com/gwilson05/wileyedge.git
+    5  git clone https://github.com/gwilson05/WileyEdge.git
+    6  ls
+    7  cd wileyedge
+    8  cd .^C
+    9  cd ..
+   10  pwd
+   11  git config --global user.email “graceann.wilson.96@gmail.com”
+   12  git commit -m "first commit creating a new file""
+   13  u
+   14  "
+   15  git commit -m "first commit creating a new file"
+   16  git status
+   17  cd wileyedge 
+   18  ls -ltr^C
+   19  ls
+   20  touch file.txt
+   21  ls
+   22  pwd
+   23  git status
+   24  git add 
+   25  git add
+   26  git add .
+   27  git status
+   28  git commit -m "first commit creating a new file"
+   29  git config --global user.email “graceann.wilson.96@gmail.com”
+   30  git commit -m "first commit creating a new file"
+   31  git push 
+   32  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
+   33  git push
+   34  git push 
+   35  git pull
+   36  git config pull.rebase false
+   37  pit push
+   38  git push
+   39  git push 
+   40  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
+   41  git push 
+   42  ls
+   43  ls /usr/bin/
+   44  ps
+   45  ps -es
+   46  ps -f$$
+   47  ps -ef
+   48  ps -ef f
+   49  clear
+   50  ps -ef | grep -v root
+   51  ps -s
+   52  man ps
+   53  ps -ef | grep -v root
+   54  pstree -shapu $$
+   55  clear 
+   56  ps -ef | egrep "$$|cmd"
+   57  ps -eo user,pid,ppid,stat,cmd | egrep "(CMD|$$)"
+   58  ps -eo user,pid,ppid,stat,cmd | egrep "CMD|$$"
+   59  ps -eo user,pid,ppid,stat,cmd | egrep "$$|CMD"
+   60  ps -eo pid,status
+   61  ps -eo pid,stat
+   62  ps -eo pid,stat | grep S |head
+   63  ps -eo pid,stat | grep S
+   64  ps -eo pid,stat | grep S | head
+   65  ps -eo pid,stat | grep S | head -2
+   66  top
+   67  echo $USER
+   68  uname
+   69  top -u USER
+   70  top -u $USER
+   71  ping google.com
+   72  ps -ef | grep ping
+   73  kill -9
+   74  kill -9 pid pid2
+   75  kill -9 9936 9947
+   76  ps -ef | grep ping
+   77  pwd
+   78  cd /var/log
+   79  cd ..
+   80  pwd
+   81  ls
+   82  ls -ltr
+   83  ls -r
+   84  ls -ltr
+   85  cd /
+   86  cd /home
+   87  cd
+   88  owd
+   89  pwd
+   90  cd ~
+   91  man ls
+   92  cd /var
+   93  ls -lt
+   94  ls -lSr
+   95  ls -laS
+   96  uname
+   97  history > Grace-Ann.220919.module2
+   98  history > GraceAnn.220919.module2
+   99  cd
+  100  history > GraceAnn.220919.module2
